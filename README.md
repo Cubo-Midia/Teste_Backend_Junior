@@ -24,8 +24,9 @@ A avaliação não será exclusivamente baseada na solução. Queremos saber de 
 
 1. Clone o repositório
 
+
 ```bash
-https://github.com/Cubo-Midia/Dev-backend
+https://github.com/Cubo-Midia/Teste_Backend_Junior
 ```
 
 2. Instale as dependências
